@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: #333;
+    color: aliceblue;
+    padding: 10px;
+
+}
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Portfolio{
+   background-color: antiquewhite;
+   padding: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: #333;
+    padding: 10px;
+    color: aliceblue;
+}
